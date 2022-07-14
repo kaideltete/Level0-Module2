@@ -1,6 +1,6 @@
 import random
 import sys
-from tkinter import messagebox, Tk
+from tkinter import messagebox, Tk, simpledialog
 from playsound import playsound
 
 
@@ -8,7 +8,6 @@ def crack_the_safe():
     pass
     # TODO: Your mission: Use the try_code method to crack the safe
     #  by trying all possible combinations
-
 
 # ======================= DO NOT EDIT THE CODE BELOW =========================
 
